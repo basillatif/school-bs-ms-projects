@@ -1,0 +1,16 @@
+.landing-page-button-large {
+  height: 25vmin;
+  width: 50vmin;
+  border: 1p;
+  outline: none;
+  background-color: #1CA0CF;
+}
+
+.centeredANDmiddled {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  /* bring your own prefixes */
+  transform: translate(-50%, -50%);
+ /* align-items: center; */
+}

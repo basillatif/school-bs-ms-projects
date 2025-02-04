@@ -1,0 +1,35 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.4",
+    "moment": "^2.22.2",
+    "npm": "^6.4.1",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
+    "react-datepicker": "^1.6.0",
+    "react-day-picker": "^7.2.4",
+    "react-dom": "^16.6.3",
+    "react-moment": "^0.8.1",
+    "react-radio-buttons": "^1.2.2",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "react-single-dropdown": "^1.0.6",
+    "reactstrap": "^6.5.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
